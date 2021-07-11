@@ -2,4 +2,7 @@
     <string name="app_name">SMNAggregator</string>
     <string name="facebook_app_id">312325293918440</string>
     <string name="fb_login_protocol_scheme">fb312325293918440</string>
+    <string name="client_id">835430427082450</string>
+    <string name="callback_url">https://instagram.com/</string>
+    <string name="base_url">https://api.instagram.com/</string>
 </resources>
